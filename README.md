@@ -34,20 +34,6 @@ The webpage features a **futuristic background** and a styled button that intera
 
 ---
 
-## 🚀 How to Run the Project
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   ```
-2. **Navigate into the project folder**:
-   ```bash
-   cd your-repo-name
-   ```
-3. **Open the project**:
-   - You can directly open the `index.html` file in any web browser.
-
----
 
 ## 🌿 Branches
 
